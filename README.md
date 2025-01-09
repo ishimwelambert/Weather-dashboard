@@ -43,7 +43,7 @@ This project utilizes basic CSS to design a clean and responsive weather dashboa
 
 bash
 Copy code
-git clone https://github.com/your-username/weather-dashboard.git
+https://github.com/ishimwelambert/Weather-dashboard
 Navigate to the project directory:
 
 bash
